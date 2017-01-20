@@ -1,0 +1,3 @@
+# beachgame
+
+base init
